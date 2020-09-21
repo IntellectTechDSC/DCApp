@@ -1,0 +1,68 @@
+[
+	{
+		"ContentAreaId":"1",
+		"ContentAreaName":"Admissions",
+		"Description":"Admissions",
+		"ContactId":"1",
+		"imageName": "admissions.png",
+		"IsEnabled":true,
+		"createdAt":"2020-08-02T06:08:58.647Z",
+		"updatedAt":"2020-08-02T06:08:58.647Z",
+		"id":"5f26587aedfc5a0c3e4e1f7c"
+	},
+	{
+		"ContentAreaId":"2",
+		"ContentAreaName":"Graduation",
+		"Description":"Graduation",
+		"ContactId":"2",
+		"imageName": "admissions.png",
+		"IsEnabled":false,
+		"createdAt":"2020-08-09T04:06:01.860Z",
+		"updatedAt":"2020-08-09T04:06:01.860Z",
+		"id":"5f2f76295fd82105ab8f4442"
+	},
+	{
+		"ContentAreaId":"3",
+		"ContentAreaName":"Requests",
+		"Description":"String",
+		"ContactId":"3",
+		"imageName": "admissions.png",
+		"IsEnabled":false,
+		"createdAt":"2020-08-09T04:06:01.860Z",
+		"updatedAt":"2020-08-09T04:06:01.860Z",
+		"id":"5f2f76295fd82105ab8f4442"
+	},
+	{
+		"ContentAreaId":"4",
+		"ContentAreaName":"Contacts",
+		"Description":"Contacts",
+		"ContactId":4,
+		"imageName": "admissions.png",
+		"IsEnabled":false,
+		"createdAt":"2020-08-09T04:06:01.860Z",
+		"updatedAt":"2020-08-09T04:06:01.860Z",
+		"id":"5f2f76295fd82105ab8f4442"
+	},
+	{
+		"ContentAreaId":5,
+		"ContentAreaName":"Resources",
+		"Description":"Resources",
+		"ContactId":5,
+		"imageName": "admissions.png",
+		"IsEnabled":false,
+		"createdAt":"2020-08-09T04:06:01.860Z",
+		"updatedAt":"2020-08-09T04:06:01.860Z",
+		"id":"5f2f76295fd82105ab8f4442"
+	},
+	{
+		"ContentAreaId":6,
+		"ContentAreaName":"Counseling",
+		"Description":"Counseling",
+		"ContactId":6,
+		"imageName": "admissions.png",
+		"IsEnabled":false,
+		"createdAt":"2020-08-09T04:06:01.860Z",
+		"updatedAt":"2020-08-09T04:06:01.860Z",
+		"id":"5f2f76295fd82105ab8f4442"
+	}
+]
